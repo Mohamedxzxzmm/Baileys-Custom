@@ -1,6 +1,6 @@
 # <div align='center'>Baileys Custom</div>
 
-![ArabDevs-Baileys](https://stitch-api.vercel.app/api/v3/upload/view/image8iev6.jpg)
+![Baileys Custom](https://stitch-api.vercel.app/api/v3/upload/view/image8iev6.jpg)
 
 <div align='center'>Enhanced WhatsApp Web Api library by ArabDevs Team</div>
 
